@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LexMusicPlayer" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary"> @color/primary_color</item>
+        <item name="colorPrimaryVariant"> @color/primary_color_variant</item>
+        <item name="colorSecondary"> @color/secondary_color</item>
+        <item name="colorSecondaryVariant"> @color/secondary_color_variant</item>
+    </style>
+
+    <style name="Theme.LexMusicPlayer" parent="Base.Theme.LexMusicPlayer" />
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lex Music Player</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Enter song name</string>
+    <string name="no_song_currently_playing">No song currently playing</string>
+</resources>
